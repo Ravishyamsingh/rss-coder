@@ -5,7 +5,6 @@ public class input_until_zero {
         Scanner sc = new Scanner(System.in);
         
         int sum = 0, num;
-
         while (true) {
             System.out.print("Enter a number (0 to stop): ");
             
