@@ -1,6 +1,3 @@
-
-
-
 import java.util.Scanner;
 
 public class NCRNPR {
@@ -12,8 +9,6 @@ public class NCRNPR {
         
         return fact;
     }
-    
-
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
@@ -40,3 +35,4 @@ public class NCRNPR {
         scanner.close();
     }
 }
+
