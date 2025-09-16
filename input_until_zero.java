@@ -1,3 +1,6 @@
+
+
+
 import java.util.Scanner;
 
 public class input_until_zero {
@@ -18,3 +21,4 @@ public class input_until_zero {
         System.out.println("Sum of all numbers: " + sum);
     }
 }
+
