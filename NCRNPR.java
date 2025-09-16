@@ -1,3 +1,8 @@
+
+
+
+
+
 import java.util.Scanner;
 
 public class NCRNPR {
@@ -35,4 +40,5 @@ public class NCRNPR {
         scanner.close();
     }
 }
+
 
